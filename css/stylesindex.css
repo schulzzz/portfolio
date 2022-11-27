@@ -1,0 +1,219 @@
+/*Universal Styling*/
+a:visited 
+{
+    text-decoration: none; 
+}
+
+a{
+    text-decoration: none;
+    
+    }
+
+a:hover {
+    text-decoration-line: none;
+    text-decoration-color: rgb(169, 166, 166);
+}
+
+a:link {
+    text-decoration: none;
+}
+
+/*Top bar styling*/
+
+.top-g {
+    background-color: #689F38;
+    color: white;
+    padding: 1%;
+    text-align: center;
+}
+
+#titlee {
+    color: white;
+    font-size: 2rem;
+    font-family: "pacifico";
+}
+
+#linkee {
+    color: white;
+    font-size: 1.3rem;
+    font-family: "noto sans";
+    padding-top: .5%;
+}
+
+#linkee:hover {
+    color:rgb(169, 166, 166);
+}
+
+.toplinkl {
+    padding: .5%;
+    margin-left: 1%;
+}
+
+.toplinkr {
+    padding: .5%; 
+    margin-right: 1%;
+}
+
+#titlee:hover {
+    text-shadow: 2px 2px rgb(113, 112, 112);
+}
+/* Body Area Styles */
+
+.bodyarea {
+    font-family: "noto sans";
+    font-size: 1rem;
+    background-color: #8BC34A;
+    color: white;
+    text-align: center;
+    padding: 1%
+}
+
+/* Card Deck and Related Styling */
+.card {
+    background-color: #DCEDC8;
+    color: #757575;
+}
+
+h5 {
+    font-family: "comfortaa";
+    color: black;
+}
+
+h4 {
+    font-family: "noto sans";
+    font-size: 1rem;
+    padding: 1%;
+}
+.card-footer {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.card-link {
+    text-decoration: none;
+}
+
+.card-text {
+    color: #757575;
+}
+
+#card1:hover {
+    cursor: pointer;
+    background-color:#dcedc8a9;
+}
+
+#card2:hover {
+    cursor: pointer;
+    background-color:#dcedc8a9;
+}
+
+#card3:hover {
+    cursor: pointer;
+    background-color:#dcedc8a9;
+}
+/*About Me Section*/    
+
+.aboutme {
+    background-color: #689F38;
+    text-align: center;
+    color: white;
+    padding: 4%;
+}
+
+h1 {
+    font-family: pacifico;
+    font-size: 4rem;
+}
+
+h3 {
+    font-family: "comfortaa";
+}
+
+.info-area {
+    color: white;
+    font-size: 1.5rem;
+    padding: 3;
+}
+
+.aboutlist {
+    color: #757575;;
+    text-align: left;
+    background-color: #DCEDC8;
+    font-family: "noto sans";
+}
+
+.btn-lightgreen {
+    background-color: #8BC34A;
+    font-family: "comfortaa";
+    font-size: 1.4rem;
+}
+
+.btn-lightgreen:hover {
+    background-color: #DCEDC8;
+}
+
+/* Project Section */
+
+.projects {
+    background-color:#8BC34A;
+    padding:3%;
+    font-family: "noto sans";
+}
+
+.jumbotop {
+    background-color: #DCEDC8;
+}
+
+.jumbo-title {
+    font-family:"comfortaa";
+}
+
+.jumbo-text {
+    font-family:"noto sans";
+}
+
+.btn-darkgreen {
+    background-color: #4CAF50;
+    color: white;
+    font-family: "comfortaa";
+}
+
+/* Coursework Section */
+
+.coursework {
+    background-color:#689F38;
+    padding:3%;
+    color: white;
+}
+
+/* Contact Me Section */
+
+.contactme {
+    background-color:#8BC34A;
+    color: white;
+    padding: 3%;
+    font-family: "noto sans";
+}
+
+.btn-medgreen {
+    background-color: #4CAF50;
+    color:white;
+}
+
+.btn-blank {
+    background-color:#8BC34A;
+    padding:0%;
+    color: white;
+}
+
+/*Footer*/
+
+.btn-blank2 {
+    background-color:#ffff;
+    padding: 0%;
+    color: white;
+}
+
+#integrity:hover {
+    color:rgb(169, 166, 166);
+}
